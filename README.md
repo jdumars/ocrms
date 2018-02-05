@@ -1,5 +1,5 @@
-# ocrms
-the Open Cloud Region Metadata Service
+![OCRMS_logo](OCRMS_logo_sm.jpg)
+# the Open Cloud Region Metadata Service
 
 You wake up in an unknown cloud region. You look around but there is no light, and no one there to tell you where you are. You rub your eyes, hoping something might come into focus, but nothing does. You need to know what resources are available to you right away so you know if you can survive in this region with everything you need.  You know you need a managed MySQL database, and a KMS. You spot a phone on the wall that says "Instance Metadata Service". You pick it up and call, but the voice just tells you information about the room you are in, not anything outside of it. Suddenly, you see a BIGGER phone with the letters OCRMS on it. You run over there, pick it up, and suddenly it offers you everything you wanted to know.  
 
